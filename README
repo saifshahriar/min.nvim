@@ -1,0 +1,15 @@
+MIN.NVIM
+========
+
+This is a minimal version of my daily neovim setup. It is being purposefully
+stripped down to make it portable. Although it contains some plugins. Those are
+the bare minimum for my convenience.
+
+Requirements
+------------
+NVIM v0.12.x or above
+
+Installation
+------------
+	git clone https://github.com/saifshahriar/nvim-min nvim --depth=1
+	mv nvim $HOME/.config/nvim
